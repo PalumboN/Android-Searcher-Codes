@@ -1,4 +1,4 @@
-package com.nkdroid.android.searchview.example;
+package com.rastas.android.searcher.codes;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

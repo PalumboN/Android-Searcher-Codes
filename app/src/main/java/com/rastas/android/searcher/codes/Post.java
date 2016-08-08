@@ -1,4 +1,4 @@
-package com.nkdroid.android.searchview.example;
+package com.rastas.android.searcher.codes;
 
 /**
  * Created by nirav on 21/02/16.
